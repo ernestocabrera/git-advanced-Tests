@@ -4,7 +4,7 @@ Ya la rama feature/Word1 tiene el doc Word1.txt pero no tiene actualizado el rea
 
 Ahora segundo cambio en el readme de main
 
-Tercer cambio en main pero con word2 ya existe
+3er cambio en main pero con word2 ya existe
 
 Cuarto cambio con word4 existente
 
